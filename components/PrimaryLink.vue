@@ -1,5 +1,5 @@
 <template>
-    <NuxtLink class="text-primary font-medium border-b-2 border-primary" :to="link">{{ text }}</NuxtLink>
+    <NuxtLink class="text-purple-600 font-medium border-b-2 border-purple-600" :to="link">{{ text }}</NuxtLink>
 </template>
 
 <script>

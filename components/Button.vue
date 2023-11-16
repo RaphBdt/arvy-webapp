@@ -15,6 +15,6 @@
 <style scoped>
     .custom-btn-shadow {
         box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.10);
-        border: 1px solid var(--outline-outline-light, #B0B0B0);
+        border: 1px solid var(--outline-outline-light, #E2E4E8);
     }
 </style>

@@ -11,7 +11,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'primary': '#833BF9',
         'customGray': '#F6F6F6'
       },
       fontFamily: {
